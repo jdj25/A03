@@ -9,7 +9,7 @@
 8. Task: make repository by starting a project in WebStorm
 9. Task: connect GitHub account by selecting Share on GitHub under VCS
 10. Task: make Read Me file by right-clicking on the file folder, making a new file, and naming it README.MD
-
+11. Format: Write notes in Read Me file using Markdown
 ### Reference List
 IntroToGitHub-20190318.pptx  
 ExtraInstallationInstructions-20200214.pdf
