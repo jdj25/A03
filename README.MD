@@ -17,7 +17,7 @@
 
 ### Glossary
 - **Branch:** an independent line of development on an initial version of a file
-- **Clone:**
+- **Clone:** make a copy of a repository in a new location
 - **Commit:**
 - **Fetch:**
 - **GIT:**
