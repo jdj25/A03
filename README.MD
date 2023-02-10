@@ -22,7 +22,7 @@
 - **Fetch:** retrieve data for original version of repository from remote repository without making changes to the current version
 - **GIT:** a directory that stores the data for a project
 - **GitHub:** a code hosting platform for version control and collaboration on projects
-- **Merge Conflict:**
+- **Merge Conflict:** branches have competing commits and Git needs to decide which changes will be implemented in the final merge
 - **Push:** implement content from local repository in remote repository
 - **Pull:** retrieve data for original version of repository from remote repository and copies changes to the current version
 - **Remote:**
@@ -36,4 +36,5 @@ https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-clone#:~:tex
 https://www.atlassian.com/git/tutorials/syncing/git-push#:~:text=The%20git%20push%20command%20is,exports%20commits%20to%20remote%20branches  
 https://phoenixnap.com/kb/what-is-a-git-repository#:~:text=A%20Git%20repository%20tracks%20and,save%20them%20in%20the%20repository  
 https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F  
-https://docs.github.com/en/get-started/quickstart/hello-world
+https://docs.github.com/en/get-started/quickstart/hello-world  
+https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/about-merge-conflicts
