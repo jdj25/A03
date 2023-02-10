@@ -4,7 +4,7 @@
 3. Task: download Git from https://git-scm.com/downloads
 4. Task: create GitHub account with student email on https://github.com
 5. Task: merge WebStorm and Git through Version Control in Settings
-6. Conflict: path to git.exe file in bin says "Git is not installed" after testing
+6. Merge Conflict: path to git.exe file in bin says "Git is not installed" after testing
 7. Fix: restart WebStorm and allow WebStorm to autodetect git.exe file in cmd
 8. Task: make repository by starting a project in WebStorm
 9. Task: connect GitHub account by selecting Share on GitHub under VCS Menu
