@@ -6,7 +6,7 @@
 5. Task: merge WebStorm and Git through Version Control in Settings
 6. Conflict: path to git.exe file in bin says "Git is not installed" after testing
 7. Fix: restart WebStorm and allow WebStorm to autodetect git.exe file in cmd
-8. 
+8. Task: make repository by starting a project in WebStorm
 
 ### Reference List
 IntroToGitHub-20190318.pptx  
