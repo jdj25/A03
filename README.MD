@@ -12,6 +12,7 @@
 11. Format: Write notes in Read Me file using Markdown
 12. Task: Save changes to files by selecting Commit under Git Menu
 13. Feature: Saves changes to device
+14. Task: Save and implement changes to files by selecting Push under Git Menu
 ### Reference List
 IntroToGitHub-20190318.pptx  
 ExtraInstallationInstructions-20200214.pdf
