@@ -26,7 +26,7 @@
 - **Push:** implement content from local repository in remote repository
 - **Pull:** retrieve data for original version of repository from remote repository and copies changes to the current version
 - **Remote:**
-- **Repository:**
+- **Repository:** tracks and saves the history of all changes made to files in a Git project
 
 ### Reference List
 IntroToGitHub-20190318.pptx  
