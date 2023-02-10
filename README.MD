@@ -30,4 +30,5 @@
 
 ### Reference List
 IntroToGitHub-20190318.pptx  
-ExtraInstallationInstructions-20200214.pdf
+ExtraInstallationInstructions-20200214.pdf  
+https://www.atlassian.com/git/tutorials/using-branches#:~:text=A%20branch%20represents%20an%20independent,staging%20area%2C%20and%20project%20history
