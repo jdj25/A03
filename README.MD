@@ -23,7 +23,7 @@
 - **GIT:**
 - **Github:**
 - **Merge Conflict:**
-- **Push:**
+- **Push:** implement content from local repository in remote repository
 - **Pull:**
 - **Remote:**
 - **Repository:**
