@@ -16,6 +16,17 @@
 15. Feature: Saves and implement changes in files on both device and GitHub
 
 ### Glossary
+- **Branch:**
+- **Clone:**
+- **Commit:**
+- **Fetch:**
+- **GIT:**
+- **Github:**
+- **Merge Conflict:**
+- **Push:**
+- **Pull:**
+- **Remote:**
+- **Repository:**
 
 ### Reference List
 IntroToGitHub-20190318.pptx  
