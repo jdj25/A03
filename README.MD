@@ -7,6 +7,7 @@
 6. Conflict: path to git.exe file in bin says "Git is not installed" after testing
 7. Fix: restart WebStorm and allow WebStorm to autodetect git.exe file in cmd
 8. Task: make repository by starting a project in WebStorm
+9. Task: connect GitHub account by selecting Share on GitHub under VCS
 
 ### Reference List
 IntroToGitHub-20190318.pptx  
