@@ -16,7 +16,7 @@
 15. Feature: Saves and implement changes in files on both device and GitHub
 
 ### Glossary
-- **Branch:**
+- **Branch:** an independent line of development on an initial version of a file
 - **Clone:**
 - **Commit:**
 - **Fetch:**
