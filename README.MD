@@ -25,7 +25,7 @@
 - **Merge Conflict:** branches have competing commits and Git needs to decide which changes will be implemented in the final merge
 - **Push:** implement content from local repository in remote repository
 - **Pull:** retrieve data for original version of repository from remote repository and copies changes to the current version
-- **Remote:**
+- **Remote:** a common repository where multiple users can share changes to a repository
 - **Repository:** tracks and saves the history of all changes made to files in a Git project
 
 ### Reference List
@@ -37,4 +37,5 @@ https://www.atlassian.com/git/tutorials/syncing/git-push#:~:text=The%20git%20pus
 https://phoenixnap.com/kb/what-is-a-git-repository#:~:text=A%20Git%20repository%20tracks%20and,save%20them%20in%20the%20repository  
 https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F  
 https://docs.github.com/en/get-started/quickstart/hello-world  
-https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/about-merge-conflicts
+https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/about-merge-conflicts  
+https://www.git-tower.com/learn/git/glossary/remote#:~:text=A%20remote%20in%20Git%20is,of%20the%20project's%20current%20state
