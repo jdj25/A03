@@ -34,7 +34,7 @@ Extra Git/GitHub Installation Instructions (ExtraInstallationInstructions-202002
 [Git Branch](https://www.atlassian.com/git/tutorials/using-branches#:~:text=A%20branch%20represents%20an%20independent,staging%20area%2C%20and%20project%20history)  
 [git clone](https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-clone#:~:text=git%20clone%20is%20primarily%20used,copies%20an%20existing%20Git%20repository)  
 [git push](https://www.atlassian.com/git/tutorials/syncing/git-push#:~:text=The%20git%20push%20command%20is,exports%20commits%20to%20remote%20branches)  
-https://phoenixnap.com/kb/what-is-a-git-repository#:~:text=A%20Git%20repository%20tracks%20and,save%20them%20in%20the%20repository  
+[What is a Git Repository?](https://phoenixnap.com/kb/what-is-a-git-repository#:~:text=A%20Git%20repository%20tracks%20and,save%20them%20in%20the%20repository)  
 https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F  
 https://docs.github.com/en/get-started/quickstart/hello-world  
 https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/about-merge-conflicts  
