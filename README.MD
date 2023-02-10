@@ -21,7 +21,7 @@
 - **Commit:** save changes to repository
 - **Fetch:** retrieve data for original version of repository from remote repository without making changes to the current version
 - **GIT:** a directory that stores the data for a project
-- **Github:** a code hosting platform for version control and collaboration on projects
+- **GitHub:** a code hosting platform for version control and collaboration on projects
 - **Merge Conflict:**
 - **Push:** implement content from local repository in remote repository
 - **Pull:** retrieve data for original version of repository from remote repository and copies changes to the current version
