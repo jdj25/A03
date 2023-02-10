@@ -19,7 +19,7 @@
 - **Branch:** an independent line of development on an initial version of a file
 - **Clone:** make a copy of a repository in a new location
 - **Commit:** save changes to repository
-- **Fetch:**
+- **Fetch:** retrieve data from original version of repository without making changes to the current version
 - **GIT:**
 - **Github:**
 - **Merge Conflict:**
