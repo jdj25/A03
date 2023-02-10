@@ -9,3 +9,4 @@
 
 ### Reference List
 IntroToGitHub-20190318.pptx
+ExtraInstallationInstructions-20200214.pdf
