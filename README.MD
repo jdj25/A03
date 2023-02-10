@@ -8,6 +8,7 @@
 7. Fix: restart WebStorm and allow WebStorm to autodetect git.exe file in cmd
 8. Task: make repository by starting a project in WebStorm
 9. Task: connect GitHub account by selecting Share on GitHub under VCS
+10. Task: make Read Me file by right-clicking on the file folder, making a new file, and naming it README.MD
 
 ### Reference List
 IntroToGitHub-20190318.pptx  
