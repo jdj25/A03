@@ -1,0 +1,1 @@
+Task: obtain WebStorm license from https://www.jetbrains.com/student/
