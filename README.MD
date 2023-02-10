@@ -8,3 +8,4 @@
 7. Fix: restart WebStorm and allow WebStorm to autodetect git.exe file in cmd
 
 ### Reference List
+IntroToGitHub-20190318.pptx
