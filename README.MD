@@ -14,6 +14,9 @@
 13. Feature: Saves changes to device
 14. Task: Save and implement changes to files by selecting Push under Git Menu
 15. Feature: Saves and implement changes in files on both device and GitHub
+
+### Glossary
+
 ### Reference List
 IntroToGitHub-20190318.pptx  
 ExtraInstallationInstructions-20200214.pdf
