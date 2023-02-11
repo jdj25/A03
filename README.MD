@@ -38,4 +38,4 @@ Extra Git/GitHub Installation Instructions (ExtraInstallationInstructions-202002
 [1.3 Getting Started - What is Git?](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F)  
 [Hello World](https://docs.github.com/en/get-started/quickstart/hello-world)  
 [About merge conflicts](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/about-merge-conflicts)  
-https://www.git-tower.com/learn/git/glossary/remote#:~:text=A%20remote%20in%20Git%20is,of%20the%20project's%20current%20state
+[What is a remote in Git?](https://www.git-tower.com/learn/git/glossary/remote#:~:text=A%20remote%20in%20Git%20is,of%20the%20project's%20current%20state)
