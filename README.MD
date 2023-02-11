@@ -36,6 +36,6 @@ Extra Git/GitHub Installation Instructions (ExtraInstallationInstructions-202002
 [git push](https://www.atlassian.com/git/tutorials/syncing/git-push#:~:text=The%20git%20push%20command%20is,exports%20commits%20to%20remote%20branches)  
 [What is a Git Repository?](https://phoenixnap.com/kb/what-is-a-git-repository#:~:text=A%20Git%20repository%20tracks%20and,save%20them%20in%20the%20repository)  
 [1.3 Getting Started - What is Git?](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F)  
-[Hello World - GitHub Docs](https://docs.github.com/en/get-started/quickstart/hello-world)  
+[Hello World](https://docs.github.com/en/get-started/quickstart/hello-world)  
 https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/about-merge-conflicts  
 https://www.git-tower.com/learn/git/glossary/remote#:~:text=A%20remote%20in%20Git%20is,of%20the%20project's%20current%20state
