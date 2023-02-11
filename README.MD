@@ -7,7 +7,7 @@
 6. Conflict: path to git.exe file in bin says "Git is not installed" after testing
 7. Fix: restart WebStorm and allow WebStorm to autodetect git.exe file in cmd
 8. Task: make repository by starting a project in WebStorm
-9. Task: connect GitHub account by selecting Share on GitHub under VCS Menu
+9. Task: connect GitHub account by selecting "Share on GitHub" under VCS Menu
 10. Task: make Read Me file by right-clicking on the file folder, making a new file, and naming it README.MD
 11. Format: Write notes in Read Me file using Markdown
 12. Task: Save changes to repository by selecting Commit under Git Menu
