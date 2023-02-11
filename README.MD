@@ -10,7 +10,7 @@
 9. Task: connect GitHub account by selecting "Share on GitHub" under VCS Menu
 10. Task: make Read Me file by right-clicking on the file folder, making a new file, and naming it README.MD
 11. Format: Write notes in Read Me file using Markdown
-12. Task: Save changes to repository by selecting Commit under Git Menu
+12. Task: Save changes to repository by selecting "Commit" under Git Menu
 13. Feature: Saves changes to local repository
 14. Task: Save and implement changes to repository by selecting Push under Git Menu
 15. Feature: Saves and implement changes on both local repository and remote repository (GitHub)
